@@ -6,3 +6,7 @@ header{
 .cabeçalho-imagem-1{
     width: 30%;
 }
+
+body{
+    background-color:rgb(0, 253, 253);
+}
